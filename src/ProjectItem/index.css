@@ -1,0 +1,13 @@
+.project-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: 1%;
+  flex-direction: column;
+}
+.project-image {
+  border-radius: 10px;
+  height: 10em;
+}
