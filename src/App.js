@@ -59,6 +59,7 @@ class App extends Component {
       <div>
         <div className="select-item">
           <select
+            className="drop-down"
             value={selectedItem}
             onChange={this.onselectionChange}
             id="my-select"

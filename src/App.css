@@ -28,7 +28,7 @@ body {
 }
 
 #my-select {
-  width: 10vw;
+  width: auto;
   padding: 0.5%;
   color: #333;
   outline: none;
